@@ -5,8 +5,8 @@ github:
     
 # image: public.ecr.aws/pahudnet/gitpod-workspace:latest
 
-image:
-  file: .gitpod.Dockerfile
+# image:
+#   file: .gitpod.Dockerfile
 
 tasks:
   - name: run docker
